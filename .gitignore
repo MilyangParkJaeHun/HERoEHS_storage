@@ -1,0 +1,14 @@
+# ignore all .jpg files
+*.jpg
+
+# ignore all .png files
+*.png
+
+# ignore all .jpeg files
+*.jpeg
+
+# ignore all .txt files
+*.txt
+
+# ignore all .csv files
+*.csv
