@@ -2,7 +2,7 @@
 Learning data store for vision recognition
 
 
-## leaf node README.md format
+## Leaf node README.md format
 collection period :
 location :
 counts :
