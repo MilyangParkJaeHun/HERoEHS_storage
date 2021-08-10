@@ -7,6 +7,12 @@
 # ignore all .jpeg files
 *.jpeg
 
+# ignore all .mask files
+*.mask
+
+# ignore all .dat files
+*.dat
+
 # ignore all .txt files
 *.txt
 
